@@ -18,7 +18,9 @@ In this repository we're going to work through some tutorials, blogging exercise
 
 ## Blogging exercises
 
-One of the most useful ways for me (Kirstie) to 
+One of the most useful ways for me (Kirstie) to follow along with your progress is to read blog post summaries of what you've been working on. It's also a great way to share our work with others!
+
+1. Meet 3 people at the Turing Institute
 
 ## Keep pushing
 
