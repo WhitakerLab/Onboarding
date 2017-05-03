@@ -19,6 +19,7 @@ In this repository we're going to work through some tutorials, blogging exercise
 ## Your first day
 
 * Join the Alan Turing [slack channel](https://alan-turing-institute.slack.com) by asking [Charlotte](reception@turing.ac.uk) to send you an invite.
+* Create a folder with your name in the [WhitakerLabProjectManagement](https://github.com/WhitakerLab/WhitakerLabProjectManagement) repository. We're going to record our weekly meetings there and use that directory to keep track of how everything is going :smile:.
 
 ## Blogging exercises
 
