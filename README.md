@@ -14,13 +14,18 @@ This is your jumping off point to get you up and running with your work in (or c
 
 You're a person! (So am I!) We're social creatures (to varying degrees.) The traditional first day practice of giving new lab members a pile of papers and say "go read these and understand them" is rather isolating. It's difficult to read scientific papers in a field you don't know, and possibly isn't the best use of your first few days and weeks.
 
-In this repository we're going to work through some tutorials, blogging exercises, 
+In this repository we're going to work through some tutorials, blogging exercises, reproducing some figures from papers and....so much more :wink:.
+
+## Your first day
+
+* Join the Alan Turing [slack channel](https://alan-turing-institute.slack.com) by asking [Charlotte](reception@turing.ac.uk) to send you an invite.
 
 ## Blogging exercises
 
 One of the most useful ways for me (Kirstie) to follow along with your progress is to read blog post summaries of what you've been working on. It's also a great way to share our work with others!
 
 1. Meet 3 people at the Turing Institute
+
 
 ## Keep pushing
 
