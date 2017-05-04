@@ -27,7 +27,10 @@ In this repository we're going to work through some tutorials, blogging exercise
 
 One of the most useful ways for me (Kirstie) to follow along with your progress is to read blog post summaries of what you've been working on. It's also a great way to share our work with others!
 
-1. Meet 3 people at the Turing Institute
+1. [Meet 3 people at the Turing Institute](https://github.com/WhitakerLab/Onboarding/blob/master/BLOGGING_EXERCISES/01-MeetThreePeople.md)
+2. ??
+3. ??
+4. [Goal setting]()
 
 
 ## Keep pushing
