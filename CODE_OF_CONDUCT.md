@@ -21,3 +21,13 @@ Harassment includes offensive verbal comments related to gender, sexual orientat
 Members of the community who violate these rules - no matter how much they have contributed to the Whitaker lab, or how specialised their skill set - will be approached by Kirstie Whitaker. If inappropriate behaviour persists after a discussion with Kirstie, the contributer will be asked to discontinue their participation in Whitaker lab projects.
 
 **To report an issue** please contact [Kirstie Whitaker](https://github.com/KirstieJane). All communication will be treated as confidential.
+
+### Working hours
+
+This sentence is stolen from [Bastian Greshake's](https://github.com/gedankenstuecke) email footer and I really love it:
+
+> While I may be sending this email outside my normal office hours, I have no expectation to receive a reply outside yours.
+
+The hours you choose to work is up to you, and just because you receive work related emails over the weekend or late at night does not mean you have to work at those times.
+
+You're welcome to work flexibly for any reason. Ideally, you'll have at least a few hours each week to overlap with Kirstie so that you can stay in touch, but it is the policy of the Whitaker Lab that every member is already self-motivated and doesn't need to work a traditional 9 to 5 day in order to mean their goals.
