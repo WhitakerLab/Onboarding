@@ -60,10 +60,17 @@ This space is yours to add to as needed.
 
 Before you meet with Kirstie each week, please copy the template within your `Weekly-Meetings.md` file and fill it in.
 
-Do not overwrite previous meetings! I'd like for us both to be able to look back at your responses over the course of your time in the lab and see how far you've come :grinning:
+We'll keep all meetings in the same file so you can also add a "table of contents" at the top of the file to make navigating it a little easier. Please do not overwrite previous meetings! I'd like for us both to be able to look back at your responses over the course of your time in the lab and see how far you've come :grinning:. Please keep the most recent meetings at the top of the file and separate each meeting with a horizonal line (`---`).
 
 Submit a pull request to the lab [Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement) repository and assign Kirstie as a reviewer.
 
+## During your weekly meeting
+
+In your weekly meeting Kirstie and you will go over your answers and Kirstie will add in any notes or questions that come from your discussion.
+
+Hopefully these notes will help you in planning your time the following week.
+
+The notes are openly available as part of this GitHub repository so please also use the time in the weekly meeting to let Kirstie know if you have any concerns that you would rather discuss privately.
 
 ## Motivation
 
