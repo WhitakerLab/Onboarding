@@ -22,12 +22,14 @@ Members of the community who violate these rules - no matter how much they have 
 
 **To report an issue** please contact [Kirstie Whitaker](https://github.com/KirstieJane). All communication will be treated as confidential.
 
-### Working hours
+### Flexible Working hours
 
-This sentence is stolen from [Bastian Greshake's](https://github.com/gedankenstuecke) email footer and I really love it:
+This sentence is stolen from [Bastian Greshake's](https://github.com/gedankenstuecke) email footer and forms the basis of the Whitaker Lab's policy on flexible working:
 
 > While I may be sending this email outside my normal office hours, I have no expectation to receive a reply outside yours.
 
-The hours you choose to work is up to you, and just because you receive work related emails over the weekend or late at night does not mean you have to work at those times.
+The hours that members of the lab choose to work is up to them. We are each welcome to send work-related emails or pull requests over the weekend or late at night, but no lab members are required to reply to them outside of their typical work hours.
 
-You're welcome to work flexibly for any reason. Ideally, you'll have at least a few hours each week to overlap with Kirstie so that you can stay in touch, but it is the policy of the Whitaker Lab that every member is already self-motivated and doesn't need to work a traditional 9 to 5 day in order to mean their goals.
+Lab members are welcome to work flexibly for any reason. Ideally, all lab members will have at least a few hours each week to overlap with Kirstie in order to stay in touch on any challenges or successes, but it is the policy of the Whitaker Lab that every member is already self-motivated and doesn't need to work a traditional 9 to 5 day in order to mean their goals.
+
+**If you experience any challenges related to flexible working within the lab** please contact [Kirstie Whitaker](https://github.com/KirstieJane). All communication will be treated as confidential.
