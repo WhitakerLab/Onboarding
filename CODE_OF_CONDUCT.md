@@ -22,7 +22,7 @@ Members of the community who violate these rules - no matter how much they have 
 
 **To report an issue** please contact [Kirstie Whitaker](https://github.com/KirstieJane). All communication will be treated as confidential.
 
-### Flexible Working hours
+### Flexible working hours
 
 This sentence is stolen from [Bastian Greshake's](https://github.com/gedankenstuecke) email footer and forms the basis of the Whitaker Lab's policy on flexible working:
 
