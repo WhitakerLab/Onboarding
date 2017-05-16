@@ -10,7 +10,7 @@ Please update it frequently with anything you think would be useful.
 
 I gotcha: [https://www.webpagefx.com/tools/emoji-cheat-sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
-:smile: :sob: :sunglasses: :open_hands: :tada: :sparkling_heart:
+:smile: :fireworks: :sunglasses: :raised_hands: :tada: :sparkling_heart:
 
 #### How do I push changes to a pull request?
 
