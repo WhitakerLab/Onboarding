@@ -30,6 +30,6 @@ This sentence is stolen from [Bastian Greshake's](https://github.com/gedankenstu
 
 The hours that members of the lab choose to work is up to them. We are each welcome to send work-related emails or pull requests over the weekend or late at night, but no lab members are required to reply to them outside of their typical work hours.
 
-Lab members are welcome to work flexibly for any reason. Ideally, all lab members will have at least a few hours each week to overlap with Kirstie in order to stay in touch on any challenges or successes, but it is the policy of the Whitaker Lab that every member is already self-motivated and doesn't need to work a traditional 9 to 5 day in order to mean their goals.
+Lab members are welcome to work flexibly for any reason. Ideally, all lab members will have at least a few hours each week to overlap with Kirstie in order to stay in touch on any challenges or successes, but it is the policy of the Whitaker Lab that every member is already self-motivated and doesn't need to work a traditional 9 to 5 day in order to meet their goals.
 
 **If you experience any challenges related to flexible working within the lab** please contact [Kirstie Whitaker](https://github.com/KirstieJane). All communication will be treated as confidential.
