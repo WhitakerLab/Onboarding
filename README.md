@@ -19,7 +19,7 @@ In this repository we're going to work through some tutorials, blogging exercise
 ## Your first day
 
 * Read the Whitaker Lab [code of conduct](https://github.com/WhitakerLab/Onboarding/blob/master/CODE_OF_CONDUCT.md). Chat with Kirstie if you have any questions about lab norms or would like to add or change anything in the code of conduct. 
-* Join the Alan Turing [slack channel](https://alan-turing-institute.slack.com) by asking [Charlotte](reception@turing.ac.uk) to send you an invite.
+* Join the Alan Turing [slack channel](https://alan-turing-institute.slack.com) by asking [Charlotte](mailto:reception@turing.ac.uk) to send you an invite.
 * Set up the weekly meetings file by following the guidelines in the [Setting-up-your-weekly-meetings.md](https://github.com/WhitakerLab/Onboarding/blob/master/Setting-up-your-weekly-meetings.md) file.
 
 ## Blogging exercises
@@ -27,9 +27,9 @@ In this repository we're going to work through some tutorials, blogging exercise
 One of the most useful ways for me (Kirstie) to follow along with your progress is to read blog post summaries of what you've been working on. It's also a great way to share our work with others!
 
 1. [Meet 3 people at the Turing Institute](https://github.com/WhitakerLab/Onboarding/blob/master/BLOGGING_EXERCISES/01-MeetThreePeople.md)
-2. ??
+2. [Blog about some code](https://github.com/WhitakerLab/Onboarding/blob/master/BLOGGING_EXERCISES/02-BlogAboutSomeCode.md)
 3. ??
-4. [Goal setting]()
+4. Goal setting
 
 
 ## Keep pushing
