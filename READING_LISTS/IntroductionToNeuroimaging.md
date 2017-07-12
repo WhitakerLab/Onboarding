@@ -1,3 +1,5 @@
+# Introduction to Neuroimaging Reading List
+
 A list of resources (in progress!) for understanding how MRI is used for human neuroimaging.
 
 Started by [Isla](https://github.com/islast) in May 2017.
