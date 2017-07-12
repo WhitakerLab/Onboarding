@@ -1,3 +1,5 @@
+# Reproducibility and Open Science Reading List
+
 This list is adapted from Lucia Magis Weinberg's [list of resources for getting started with open science and reproducibility](https://luciamagisweinberg.wordpress.com/2017/03/23/reproducibilityopen-science-resources/). Thank you Lucia :sparkles: :tada:
 
 ### Overviews and timelines of the "Reproducibility Crisis"
