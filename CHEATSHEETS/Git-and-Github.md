@@ -51,4 +51,5 @@ git fetch origin
 git reset --hard origin/master
 ```
 
-If you need to 
+If you need to remove *untracked files* then you'll need to also run: `git clean -f`.
+We recommend running `git clean -n -f` before you do to double check what *will* be deleted without removing the files....just in case!
