@@ -60,5 +60,6 @@ These articles take the view that *you* will benefit most strongly from working 
 ### Intersections of open and feminism
 
 * Eaves, D. (2009). [Structurelessness, feminism and open: what open advocates can learn from second wave feminists](https://eaves.ca/2009/07/06/structurelessness-feminism-and-open/).
+  * Freeman, J. (1973). [Tyranny of Structurelessness ](https://www.jofreeman.com/joreen/tyranny.htm).
 
 * Albornoz, D. (2018). [Reimagining Open Science Through a Feminist Lens](https://medium.com/@denalbz/reimagining-open-science-through-a-feminist-lens-546f3d10fa65)
