@@ -50,3 +50,15 @@ These articles take the view that *you* will benefit most strongly from working 
 
 * Taschuk M, Wilson G (2017) **Ten simple rules for making research software more robust**. PLoS Comput Biol 13(4): e1005412. [doi:10.1371/journal.pcbi.1005412](https://doi.org/10.1371/journal.pcbi.1005412)
   * PLoS Collection: ["Ten simple rules"](http://collections.plos.org/ten-simple-rules)
+
+
+### Open science might not be open for everyone
+
+*  Bahlai, C., Bartlett, L. J., Burgio, K.R., Fournier, A. M. V., Keiser, C. N., Poisot, T., Stack Whitney, K. (2019). [Open Science Isn't Always Open to All Scientists](https://www.americanscientist.org/article/open-science-isnt-always-open-to-all-scientists).
+
+
+### Intersections of open and feminism
+
+* Eaves, D. (2009). [Structurelessness, feminism and open: what open advocates can learn from second wave feminists](https://eaves.ca/2009/07/06/structurelessness-feminism-and-open/).
+
+* Albornoz, D. (2018). [Reimagining Open Science Through a Feminist Lens](https://medium.com/@denalbz/reimagining-open-science-through-a-feminist-lens-546f3d10fa65)
