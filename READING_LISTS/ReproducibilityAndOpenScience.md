@@ -64,3 +64,12 @@ These articles take the view that *you* will benefit most strongly from working 
 * Eaves, D. (2009). [Structurelessness, feminism and open: what open advocates can learn from second wave feminists](https://eaves.ca/2009/07/06/structurelessness-feminism-and-open/).
 
 * Albornoz, D. (2018). [Reimagining Open Science Through a Feminist Lens](https://medium.com/@denalbz/reimagining-open-science-through-a-feminist-lens-546f3d10fa65)
+
+### Registered reports
+
+* Matthew W. (2018). [First analysis of ‘pre-registered’ studies shows sharp rise in null findings](https://www.nature.com/articles/d41586-018-07118-1?fbclid=IwAR2msSEd4Rcv7xS34P3WnhmpUZJC1aPqE-m2U1k8lG9EsGnbwvwo1g3xwds)
+
+* Chris A*, David M* (2019). [Open science challenges, benefits and tips in early career and beyond](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000246)
+
+
+
