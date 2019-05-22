@@ -28,7 +28,7 @@ The Whitaker Lab meetings are approximately weekly from 3pm to 4pm on Thursdays.
 Members of the Whitaker Lab are expected to join if they are able and to contribute to the agenda in advance of the meeting *whether they are able to attend or not*.
 
 * Please read the [lab meetings](Lab-meetings.md) guide for more details.
-* You can find the specific dates of the meetings in the [Whitaker lab's google calendar](https://calendar.google.com/calendar?cid=N25hcjMxYzZuaTRlc2lmOGZuMTg4MWtnZHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+* You can find the specific dates of the meetings in the [Whitaker lab's google calendar](https://calendar.google.com/calendar/embed?src=7nar31c6ni4esif8fn1881kgds%40group.calendar.google.com).
 
 ## Blogging exercises
 
