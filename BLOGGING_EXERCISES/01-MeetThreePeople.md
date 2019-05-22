@@ -15,11 +15,13 @@ Some suggested questions could be:
 * What is data science to you?
 * What are your research questions?
 * What do you like about working at the Turing Institute?
-* Who is your targ`et audience?
+* Who is your target audience?
 * What are the most exciting parts of your job?
 
 ***You don't have to ask all of these questions!*** They're just suggestions to get you started.
 
 It would be great to have some pictures of the people you speak with (remember to ask their permission!) and a little of your own voice and experience in the blog.
 
-Once you've written the blog, upload it to the whitakerlab.github.io website in the `_posts/blog` directory.
+To upload your blog post, follow the instructions in the [`_posts/blog/template.md`](https://github.com/WhitakerLab/whitakerlab.github.io/blob/master/_posts/blog/template.md) in the [whitakerlab.github.io website repo](https://github.com/WhitakerLab/whitakerlab.github.io).
+
+The blog should be submitted as file in the [`_posts/blog`](https://github.com/WhitakerLab/whitakerlab.github.io/tree/master/_posts/blog) directory via a pull request.
