@@ -36,11 +36,11 @@ One of the most useful ways for me (Kirstie) to follow along with your progress 
 
 We'll set a schedule for each blog, but please plan on working through all four within the first few months of your time at the Turing.
 
-0. [Introducing](blogging-exercises/00-Introducing.md)
-1. [Meet 3 people at the Turing Institute](blogging-exercises/01-MeetThreePeople.md)
-2. [Blog about some code](blogging-exercises/02-BlogAboutSomeCode.md)
-3. [Contribute to an open source project](blogging-exercises/03-OpenSourceContribution.md)
-4. [Goal setting](blogging-exercises/04-GoalSetting.md)
+0. [Introducing](BLOGGING_EXERCISES/00-Introducing.md)
+1. [Meet 3 people at the Turing Institute](BLOGGING_EXERCISES/01-MeetThreePeople.md)
+2. [Blog about some code](BLOGGING_EXERCISES/02-BlogAboutSomeCode.md)
+3. [Contribute to an open source project](BLOGGING_EXERCISES/03-OpenSourceContribution.md)
+4. [Goal setting](BLOGGING_EXERCISES/04-GoalSetting.md)
 
 ## Keep pushing
 
