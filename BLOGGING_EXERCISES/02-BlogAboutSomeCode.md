@@ -11,12 +11,9 @@ The brief is very broad: **get a piece of code running and write about 500 words
 Your target audience is *you*.
 
 The reason this blog is so close to the beginning of your time in the Whitaker lab is that it becomes much harder to write blogs about getting started once you're a bit more expert.
-<<<<<<< HEAD
+
 I'd recommend making notes about what the blog post is going to contain from the very first time that you try to use the code!
 Think about trying to make the next person's life easier :raised_hands:
-=======
-I'd recommend making notes about what the blog post is going to contain from the very first time that you try to use the code! Think about trying to make the next person's life easier :raised_hands:
->>>>>>> 98797dd55fd792fd0e7cbaa566f0450992c3c22e
 
 Try to make sure your blog covers these points:
 
