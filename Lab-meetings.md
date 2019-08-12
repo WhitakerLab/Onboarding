@@ -228,7 +228,7 @@ Especially when many of the projects the lab works on require quite different do
 
 In an early iteration of these lab meetings, participation was optional and attendance was very low.
 
-There were two reasons I did not make joining lab meeting mandatory was 1) I hoped it would be a valuable use of folks' time, and an enjoyable hour in the week, and 2) that I was uncomfortable requiring time out of busy people's schedules.
+There two reasons I did not make joining lab meeting mandatory was 1) I hoped it would be a valuable use of folks' time, and an enjoyable hour in the week, and 2) that I was uncomfortable requiring time out of busy people's schedules.
 
 On reflection, I think we were missing the trust that is fundamental for collaborative discussions to meet their true potential.
 So we were in a vicious cycle that meant the meetings were not useful and therefore fewer people came.
