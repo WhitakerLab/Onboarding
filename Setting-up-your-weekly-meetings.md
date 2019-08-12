@@ -4,9 +4,11 @@ It's important to me (Kirstie) that no one feels left out in the cold, or abando
 
 It may not always be possible but I'd like us to meet once per week (ideally for 30 minutes, but if you need longer then I'm sure we can manage that!) to touch base and keep track of where you are.
 
-I've developed a template for making sure that we cover certain topics every week. This document will talk you through how you set up and prepare for your weekly meeting, along with my motivation for asking these questions.
+I've developed a template for making sure that we cover certain topics every week.
+This document will talk you through how you set up and prepare for your weekly meeting, along with my motivation for asking these questions.
 
-Importantly, ***I hope these meetings are useful for us both***. Please let me know if there are any changes that you'd like to make!
+Importantly, ***I hope these meetings are useful for us both***.
+Please let me know if there are any changes that you'd like to make!
 
 ## Building your meetings template
 
@@ -60,7 +62,10 @@ This space is yours to add to as needed.
 
 Before you meet with Kirstie each week, please copy the template within your `Weekly-Meetings.md` file and fill it in.
 
-We'll keep all meetings in the same file so you can also add a "table of contents" at the top of the file to make navigating it a little easier. Please do not overwrite previous meetings! I'd like for us both to be able to look back at your responses over the course of your time in the lab and see how far you've come :grinning:. Please keep the most recent meetings at the top of the file and separate each meeting with a horizonal line (`---`).
+We'll keep all meetings in the same file so you can also add a "table of contents" at the top of the file to make navigating it a little easier.
+Please do not overwrite previous meetings!
+I'd like for us both to be able to look back at your responses over the course of your time in the lab and see how far you've come :grinning:.
+Please keep the most recent meetings at the top of the file and separate each meeting with a horizonal line (`---`).
 
 Submit a pull request to the lab [Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement) repository and assign Kirstie as a reviewer.
 
@@ -74,7 +79,8 @@ The notes are openly available as part of this GitHub repository so please also 
 
 ## Motivation
 
-This last section outlines why I want you to answer these questions. If you have any suggestions on additional points to cover please let me know!
+This last section outlines why I want you to answer these questions.
+If you have any suggestions on additional points to cover please let me know!
 
 #### Helping each other
 
