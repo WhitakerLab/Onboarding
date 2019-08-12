@@ -77,7 +77,8 @@ Zoom: **REDACTED**
 
 ### Apologies
 
-> *Please add your name below if you are not able to attend the meeting. Don't forget to complete the sections below, even if you are not able to attend.*
+> *Please add your name below if you are not able to attend the meeting.
+> Don't forget to complete the sections below, even if you are not able to attend.*
 > Add 🤫 if you don't want your name added to the GitHub record
 
 * 
@@ -86,7 +87,9 @@ Zoom: **REDACTED**
 
 ### What do you want the lab members to know about?
 
-> *Please add a bullet point with something you'd like the lab members to know about. You may respond to any of the points before or after the lab meeting, no need to wait until the 1 hour time slot! Please add your initials and use the* 🤫 *emoji if you would like the bullet point removed from the GitHub record.*
+> *Please add a bullet point with something you'd like the lab members to know about.
+> You may respond to any of the points before or after the lab meeting, no need to wait until the 1 hour time slot!
+> Please add your initials and use the* 🤫 *emoji if you would like the bullet point removed from the GitHub record.*
 
 * 
 * 
@@ -96,7 +99,9 @@ Zoom: **REDACTED**
 
 ### What would you like lab members' opinion(s) on?
 
-> *Please add a bullet point with something you'd like lab members' opinion on. You may respond to any of the points before or after the lab meeting, no need to wait until the 1 hour time slot! Please add your initials and use the* 🤫 *emoji if you would like the bullet point removed from the GitHub record.*
+> *Please add a bullet point with something you'd like lab members' opinion on.
+> You may respond to any of the points before or after the lab meeting, no need to wait until the 1 hour time slot!
+> Please add your initials and use the* 🤫 *emoji if you would like the bullet point removed from the GitHub record.*
 
 * 
 * 
@@ -106,7 +111,8 @@ Zoom: **REDACTED**
 
 ### Agenda & Notes
 
-This meeting is an open agenda - it would be great if you could add "things you’d like lab members' opinions on" in advance and we’ll build an agenda based on those questions.
+This meeting is an open agenda.
+The discussion points will be curated from the "things you’d like lab members' opinions on" section above.
 
 * 
 * 
