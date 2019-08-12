@@ -149,6 +149,13 @@ The template for the blog post is available in the [whitakerlab.github.io GitHub
 
 This blog post should be authored by the chair (make sure to change the `author`) part of the blog post header.
 
+The blog post does not need to include every point in the HackMD.
+In fact, it is not likely to be a particularly readable post if that is the case.
+It should be a short and engaging summary of the key points of discussion.
+
+Remember not to include any points that have the 🤫 emoji next to them.
+Use your best judgement when publicly sharing questions and comments that show particular vulnerability of the lab members participating in the conversation.
+
 Ideally, this blog post will be written up by the following Monday morning, and a pull request opened for review.
 
 Everyone who is mentioned by name in the blog post is expected to [review the pull request](https://help.github.com/en/articles/about-pull-request-reviews) and approve before the next lab meeting.
