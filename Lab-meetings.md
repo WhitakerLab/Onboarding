@@ -234,7 +234,6 @@ Two hours per week (one hour weekly meeting and one hour lab meeting) is not eno
 Especially when many of the projects the lab works on require quite different domain expertise.
 
 In an early iteration of these lab meetings, participation was optional and attendance was very low.
-
 There two reasons I did not make joining lab meeting mandatory was 1) I hoped it would be a valuable use of folks' time, and an enjoyable hour in the week, and 2) that I was uncomfortable requiring time out of busy people's schedules.
 
 On reflection, I think we were missing the trust that is fundamental for collaborative discussions to meet their true potential.
@@ -254,9 +253,9 @@ They can **opt-in** to the emails, and - after a discussion with Kirstie - they 
 Importantly, participation does not exclusively mean attending the meeting.
 Completing the HackMD in advance and sending apologies is sufficient to count as an active participant.
 
-Required attendance seems harsh, and it instinctively goes against my desire to be flexible and welcoming.
-It also makes it more likely that projects Kirstie is involved in but which are not funded by grants to the lab will not be represented in the discussions, which would be a great loss to the conversation and shared skills.
-
+Participation by affiliated lab members is key to the success of the research group, but sporadic attendance is too difficult to predict and plan around.
+Not having them attend reduces the visibility and skill sharing opportunities of projects that Kirstie is involved in but which are not funded by grants to the lab.
+Members of these teams have great potential to enhance the conversations we share.  
 I very much hope that affiliated lab members will participate, and I am confident that we can build to a position where this hour is helpful and enjoyable by all.
 
 In this current iteration, I would like to **focus my energy on lab members and collaborators who have capacity to build trust within the group**.
