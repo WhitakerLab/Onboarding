@@ -180,6 +180,13 @@ Your responsibilities as chair are to:
   This includes making sure that everyone has a chance to participate, and that everyone complies with the Whitaker Lab [code of conduct](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/CODE_OF_CONDUCT.md).
 4. Write a blog post and submit it to the [whitakerlab.github.io GitHub repository](https://github.com/WhitakerLab/whitakerlab.github.io) by the Monday after lab meeting.
 
+**The prospect of chairing lab meeting might feel really overwhelming!**
+Being in charge of managing the time, coordinating everyone's participation and facilitating a productive conversation is a lot of responsibility :grimacing:
+
+It is also a really important skill that will serve you well in future collaborations and as you advance through your career (inside of academia and beyond).
+
+The first few times that you chair lab meeting, please be in touch with Kirstie before, during and after that week so she can answer any questions and mentor you though the experience.
+
 ## Motivation
 
 This last section outlines why I (Kirstie) have structured lab meeting in this way, particularly focusing on the reasoning behind having the questions in each week's HackMD note.
