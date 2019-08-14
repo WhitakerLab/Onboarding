@@ -223,7 +223,7 @@ In her book [Emergent Strategy](https://www.goodreads.com/en/book/show/29633913-
 >   let it come forth.
 > * the connection between the individuals is what makes the whole group/community strong.
 
-*(Note that brown [self determines](http://adriennemareebrown.net/2016/09/11/941am-911/#comment-1415562) what she capitalises, which reminds me of - and is possibly inspired by - black feminist writer [bell hooks](https://en.wikipedia.org/wiki/Bell_hooks) who did not capitaliser her name in order ["to focus on the substance of her work, not who [she] is"]().)*
+*(Note that brown [self determines](http://adriennemareebrown.net/2016/09/11/941am-911/#comment-1415562) what she capitalises, which reminds me of - and is possibly inspired by - black feminist writer [bell hooks](https://en.wikipedia.org/wiki/Bell_hooks) who did not capitalise her name in order ["to focus on the substance of her work, not who [she] is"]().)*
 
 If we want information to flow around a decentralised network, then we need to trust each other.
 I believe that **building connections between individual people are the magic that will lead to the most exciting and innovative data science**.
@@ -255,7 +255,7 @@ Completing the HackMD in advance and sending apologies is sufficient to count as
 
 Participation by affiliated lab members is key to the success of the research group, but sporadic attendance is too difficult to predict and plan around.
 Not having them attend reduces the visibility and skill sharing opportunities of projects that Kirstie is involved in but which are not funded by grants to the lab.
-Members of these teams have great potential to enhance the conversations we share.  
+Members of these teams have great potential to enhance the conversations we share.
 I very much hope that affiliated lab members will participate, and I am confident that we can build to a position where this hour is helpful and enjoyable by all.
 
 In this current iteration, I would like to **focus my energy on lab members and collaborators who have capacity to build trust within the group**.
@@ -298,13 +298,12 @@ Responses to a question might be:
 * To share a similar experience and what went right (or wrong) that time.
 
 Asking questions is also a learned skill.
-Analogous to a [Minimal worked example]( https://stackoverflow.com/help/minimal-reproducible-example) it takes time and practice to distill your question from "It doesn't work" or "I don't know what to do" to a specific "I get this error message when I run this command", "I'm stuck on interpreting this figure", "How do I manage this particular challenging community interaction", or "Where should I store my data".
+Analogous to a [Minimal worked example](https://stackoverflow.com/help/minimal-reproducible-example) it takes time and practice to distill your question from "It doesn't work" or "I don't know what to do" to a specific "I get this error message when I run this command", "I'm stuck on interpreting this figure", "How do I manage this particular challenging community interaction", or "Where should I store my data".
 In many cases, it is in creating the question in the first place that you figure out what you need to know.
 
 So the secondary goal of this section is to **help you ask good questions**.
 
-This illustration from her blog post on ["How To Ask Good Questions"](https://jvns.ca/blog/good-questions/
-) by [Julia Evans](https://jvns.ca/) is wonderful.
+This illustration from her blog post on ["How To Ask Good Questions"](https://jvns.ca/blog/good-questions/) by [Julia Evans](https://jvns.ca/) is wonderful.
 (The blog post is great too!) 
 Just don't let it trick you into thinking that the only good questions are related to technical expertise.
 The hardest and most important questions are about **how we plan and design, undertake, and communicate our research** rather than "just" the software tools and datasets they contain.
