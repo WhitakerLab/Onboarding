@@ -96,7 +96,7 @@ We all appreciate help along the way, and if we work together we will all be hap
 
 The third question, **What did you achieve?** is the celebration question for the week! It will often feel like you haven't achieved everything that you wanted to...but that doesn't mean you didn't achieve anything. There's something you managed to do, even if it's some deep googling to figure out a mysterious acronym, and I want to be able to say well done :tada:.
 
-Please note that your achievements don't have to be related to work in the Whitaker lab. I'm hopign to support and mentor indepenent thinkers and doers: if you have projects that I'm not involved in but that you've had successes with, please do let me know. Partly so I can cheer you along, and partly so I have a better sense of how long work is taking you to complete. (You can imagine that if you don't tell me about work that's taking up 50% of your time, I could end up worried that you're working half as quickly as I'd imagined!)
+Please note that your achievements don't have to be related to work in the Whitaker lab. I'm hoping to support and mentor indepenent thinkers and doers: if you have projects that I'm not involved in but that you've had successes with, please do let me know. Partly so I can cheer you along, and partly so I have a better sense of how long work is taking you to complete. (You can imagine that if you don't tell me about work that's taking up 50% of your time, I could end up worried that you're working half as quickly as I'd imagined!)
 
 #### Challenges
 
